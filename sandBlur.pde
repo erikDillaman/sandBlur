@@ -1,3 +1,8 @@
+      /*---------------------------------------       
+      |             Sand Blur Filter           |
+      |             ~Erik Dillaman~            |
+      ----------------------------------------*/
+
 PImage img;
 color tempPixel1, tempPixel2;
 int offset;   // used with i%5==0 to only move every 'offset' pixel
